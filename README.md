@@ -10,3 +10,6 @@ Projects:
 Technologies used:
 - Python
 - File Handling
+
+Project Demo Video:
+https://lnkd.in/gkeJNnjW
